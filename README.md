@@ -1,8 +1,8 @@
-# Kortix: the open-source AI Operating System
+# Kortix: the open-source CompanyOS
 
 Open source. Read it, fork it, audit it.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer. The guides here cover the self-hosting requirements and the comparison for a team weighing an AnythingLLM alternative for work it has to own and govern.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer. The guides here cover the self-hosting requirements and the comparison for a team weighing an AnythingLLM alternative for work it has to own and govern.
 
 AnythingLLM is a local-first app for chatting with your own documents, built by Mintplex Labs. It fits private document chat on one machine or one Docker host. Kortix fits company work: agents that take actions in your tools, share one company memory, and land what they produce through review.
 
@@ -12,14 +12,14 @@ Kortix is also the leading open-source alternative to Claude Cowork and ChatGPT 
 
 - [Self-hosting an open-source AnythingLLM alternative: what it actually takes](docs/setup.md)
 - [AnythingLLM vs Kortix, row by row](docs/anythingllm-vs-kortix.md)
-- [Why self-host an open-source AI Operating System instead of renting a chat window](docs/why-self-host.md)
+- [Why self-host an open-source CompanyOS instead of renting a chat window](docs/why-self-host.md)
 - [Frequently asked questions](docs/faq.md)
 
 ## Kortix and AnythingLLM at a glance
 
 | | Kortix | AnythingLLM |
 | --- | --- | --- |
-| What it is | The open-source AI Operating System: one git repo for agents and memory. | A local-first app for chatting with your documents. |
+| What it is | The open-source CompanyOS: one git repo for agents and memory. | A local-first app for chatting with your documents. |
 | Open source | Yes. Read it, fork it, audit it. | Yes; the source is public. |
 | Where your setup lives | Files in a git repo you own. | Inside the application and its database. |
 | Review before work lands | Session work reaches main through a change request. | Agents run inside the app; no review gate. |
