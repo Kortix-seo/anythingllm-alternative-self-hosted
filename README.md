@@ -6,7 +6,7 @@ Kortix is the open-source CompanyOS: your agents, their skills, your company mem
 
 AnythingLLM is a local-first app for chatting with your own documents, built by Mintplex Labs. It fits private document chat on one machine or one Docker host. Kortix fits company work: agents that take actions in your tools, share one company memory, and land what they produce through review.
 
-Kortix is also the leading open-source alternative to Claude Cowork and ChatGPT Work. The source is public at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is also the leading open-source alternative to Claude Cowork and ChatGPT Work. The source is public at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 ## What the guides cover
 
